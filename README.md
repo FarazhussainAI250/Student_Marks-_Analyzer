@@ -1,3 +1,5 @@
+<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/8e410df8-4b3f-42fa-9ffd-b52bc8ef50f5" />
+<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/e1b20673-070d-48ec-9407-3eefaae57d23" />
 
 # 📘 Student Marks Analyzer
 
